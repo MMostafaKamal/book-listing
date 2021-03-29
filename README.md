@@ -5,6 +5,10 @@ Running this project requires a global installation of the json-server package v
 
 In the project directory, you can run:
 
+### `yarn`  
+
+To install the dependencies.  
+
 ### `yarn start-api`  
 To start the json server.
 
